@@ -7,4 +7,3 @@ set EMACS_PORTABLE="Y"
 rem Find the Emacs executable and execute it.
 "%~dp0/bin/runemacs.exe" %
 
-pause
